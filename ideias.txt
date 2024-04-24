@@ -1,0 +1,7 @@
+- universidades mais draftadas
+- paises mais draftados
+- times com mais picks
+- posicoes mais pickadas
+- alturas mais pickadas
+- stats da ncaa por tipos de pick
+- estados dos eua mais pickados
